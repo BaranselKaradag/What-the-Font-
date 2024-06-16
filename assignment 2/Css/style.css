@@ -1,0 +1,55 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+}
+
+main{
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/maxresdefault.jpg');
+    
+    background-size: cover;
+    background-position: center;
+}
+
+.box3 {
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
+    padding: 0.5em 1em;
+    margin: 2em 20em;
+    color: #6363f5;
+    background: rgba(0, 0, 0, 0.6)
+}
+
+p{
+    color: tomato;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+span{
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+div{
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+em{
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+
+}
